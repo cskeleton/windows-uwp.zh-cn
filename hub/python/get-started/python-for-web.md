@@ -28,7 +28,7 @@ ms.locfileid: "68349473"
 > [!IMPORTANT]
 > 如果你使用的是 web 开发以外的其他内容, 则我们建议你使用 Microsoft Store 直接在 Windows 10 上安装 Python。 WSL 不支持 GUI 桌面或应用程序 (如 PyGame、Gnome、KDE 等)。 在这些情况下, 请在 Windows 上直接安装并使用 Python。 如果你不熟悉 Python, 请参阅以下指南:[开始在 Windows 上使用 Python](./python-for-education.md)。 如果你有兴趣自动执行操作系统上的常见任务, 请参阅以下指南:[开始在 Windows 上使用 Python 进行脚本编写和自动化](./python-for-scripting.md)。 <br>对于某些高级方案, 你可能需要考虑直接从[python.org](https://www.python.org/downloads/windows/)下载特定的 Python 版本, 或考虑安装[备用](https://www.python.org/download/alternatives)项, 例如 Anaconda、Jython、PyPy、WinPython、IronPython 等。仅当你是更高级的 Python 程序员时, 才建议使用此方法, 具体原因是选择替代实现。
 
-## <a name="enable-windows-subsystem-for-linux"></a>启用适用于 Linux 的 Windows 子系统
+## <a name="enable-windows-subsystem-for-linux"></a>启用适用于 Windows 的 Linux 子系统
 
 通过 WSL, 你可以运行 GNU/Linux 环境 (包括大多数命令行工具、实用工具和应用程序), 直接在 Windows 上进行修改, 并与 Windows 文件系统和常用工具 (如 Visual Studio Code) 完全集成。 在启用 WSL 之前, 请检查你是否拥有[最新版本的 Windows 10](https://www.microsoft.com/software-download/windows10)。
 
